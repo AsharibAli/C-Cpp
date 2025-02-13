@@ -1,0 +1,7 @@
+Name            Marks      CGPA       Course         
+-----------------------------------------------------
+Alice           90         8.50       Mathematics    
+Bob             85         8.20       Computer Science
+Charlie         92         9.00       Physics        
+David           78         7.50       Chemistry      
+Eve             88         8.80       Biology        
